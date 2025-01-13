@@ -1,0 +1,6 @@
+resource_group_name = "newbusiness-infra-group"
+asp_name = "newbusiness-infra-asp"
+asp_os_type = "Windows"
+asp_sku ="F1"
+webapp_name = "newbusiness-api"
+location = "West US"
